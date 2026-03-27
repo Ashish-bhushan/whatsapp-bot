@@ -271,21 +271,9 @@ If everything works, you'll see this in the console:
 
 ## 🚀 Live Demo
 
-> 🌐 **Deployed URL:** `https://whatsapp-bot-xyz.onrender.com`
-
-Test the live API:
-```bash
-curl -X POST https://whatsapp-bot-xyz.onrender.com/api/webhook \
-  -H "Content-Type: application/json" \
-  -d '{"sender": "TestUser", "message": "Hi"}'
-```
+> 🌐 **Will deploy after finishing the frontend** 
 
 ---
-
-## ☁️ Deployment on Render
-
-Follow these steps to deploy for **free** on [Render](https://render.com):
-
 ### Step 1 — Push code to GitHub
 ```bash
 git add .
