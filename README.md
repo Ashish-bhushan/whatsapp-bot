@@ -128,7 +128,7 @@ Make sure you have the following installed before running the project:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/whatsapp-bot.git
+git clone https://github.com/Ashish-bhushan/whatsapp-bot.git
 cd whatsapp-bot
 ```
 
@@ -154,7 +154,7 @@ mvn spring-boot:run
 
 ```
 1. Open the project in IntelliJ IDEA
-2. Navigate to WhatsappBotApplication.java
+2. Navigate to ChatBotApplication.java
 3. Click the ▶ green Run button
 ```
 
