@@ -6,7 +6,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.x-brightgreen?style=for-the-badge&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-red?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge&logo=postman&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 **A simple WhatsApp chatbot backend simulation built with Java & Spring Boot.**  
 Accepts WhatsApp-style JSON messages via a REST API and responds with intelligent predefined replies.
@@ -32,7 +32,6 @@ Accepts WhatsApp-style JSON messages via a REST API and responds with intelligen
 - [🚀 Live Demo](#-live-demo)
 - [☁️ Deployment on Render](#️-deployment-on-render)
 - [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 - [👨‍💻 Author](#-author)
 
 ---
