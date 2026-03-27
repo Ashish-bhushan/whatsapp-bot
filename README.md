@@ -250,7 +250,7 @@ If everything works, you'll see this in the console:
 📸 [Console screenshot showing Spring Boot startup logs]
 ```
 ### 📮 Postman — Sending "hi"
-> *(Add your screenshot here)*
+![Console Screenshot](https://github.com/Ashish-bhushan/whatsapp-bot/blob/c9167174eff0f970dd7acc1e1bcb779871575507/Screenshot%202026-03-27%2004.png)
 ```
 📸 [Postman POST request with {"sender": "Alice", "message": "hi"}]
 ```
