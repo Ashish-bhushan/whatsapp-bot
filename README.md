@@ -341,7 +341,7 @@ git push origin feature/add-new-reply
 
 <div align="center">
 
-**YOUR NAME**
+**ASHISH BHUSHAN SINGH**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](github.com/Ashish-bhushan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/ashish-bhushan-singh-0b626735b 
