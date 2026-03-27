@@ -245,7 +245,7 @@ If everything works, you'll see this in the console:
 ## 📸 Screenshots
 
 ### ✅ Server Running in Console
-> *(Add your screenshot here)*
+> https://github.com/Ashish-bhushan/whatsapp-bot/blob/d3b0f3ad70728456906e716a3f8c562937aac6c3/Screenshot%202026-03-27%2001.png
 ```
 📸 [Console screenshot showing Spring Boot startup logs]
 ```
