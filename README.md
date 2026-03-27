@@ -249,17 +249,16 @@ If everything works, you'll see this in the console:
 ```
 📸 [Console screenshot showing Spring Boot startup logs]
 ```
-
-### 📮 Postman — Sending "Hi"
-> ![Console Screenshot](https://github.com/Ashish-bhushan/whatsapp-bot/blob/01a2dff8f85e2bcb4c7c93af4b25de8d5732d3d1/Screenshot%202026-03-27%2002.png)
-```
-📸 [Postman POST request with {"sender": "John", "message": "Hi"}]
-```
-
-### 📮 Postman — Sending "Bye"
+### 📮 Postman — Sending "hi"
 > *(Add your screenshot here)*
 ```
-📸 [Postman POST request with {"sender": "Alice", "message": "Bye"}]
+📸 [Postman POST request with {"sender": "Alice", "message": "hi"}]
+```
+
+### 📮 Postman — Sending "bye"
+> ![Console Screenshot](https://github.com/Ashish-bhushan/whatsapp-bot/blob/01a2dff8f85e2bcb4c7c93af4b25de8d5732d3d1/Screenshot%202026-03-27%2002.png)
+```
+📸 [Postman POST request with {"sender": "John", "message": "bye"}]
 ```
 
 ### 🪵 Console Logs (Message Tracking)
