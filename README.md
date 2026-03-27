@@ -262,7 +262,7 @@ If everything works, you'll see this in the console:
 ```
 
 ### 🪵 Console Logs (Message Tracking)
-> *(Add your screenshot here)*
+![Console Screenshot](https://github.com/Ashish-bhushan/whatsapp-bot/blob/773da0346a9f06e77ca4f99f3c686f7d92e63f62/Screenshot%202026-03-27%2003.png)
 ```
 📸 [Console showing logged incoming and outgoing messages]
 ```
